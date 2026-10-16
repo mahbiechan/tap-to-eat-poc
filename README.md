@@ -1,1 +1,1 @@
-# tap-to-eat-poc
+Tap-To-Eat PoC (IM101, Group 12). To run: install Docker Desktop, open this folder in a terminal, run `docker compose up --build`, then open http://localhost:8000/docs. To run the benchmark: `docker compose exec api python test.py`.
